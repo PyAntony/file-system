@@ -64,7 +64,7 @@ def from(input: String): Command = {
 
 ### Demo
 
-<br /><br />
+<br />
 <kbd>![demo](https://github.com/PyAntony/file-system/blob/master/images/demo.png)</kbd>
 <br /> <br />
 
