@@ -7,7 +7,7 @@ on his courses go to https://rockthejvm.com/).
 
 I have made multiple modifications to the original codebase to make the code more succinct, readable, and functional. 
 For example: using pattern matching rather than nested IF statements, Option monads replace null values, using utility 
-methods in the Command object, etc. I have also added 1 additional command: "Cp".
+methods in the Command object, etc. I have also added 1 additional command: CP.
 
 ## Scaffold description 
 
