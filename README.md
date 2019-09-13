@@ -1,6 +1,6 @@
 # A Small File System with Scala
 
-Application to simulate a file system and commands (analogous to Linux commands). Codebase was provided 
+Application to simulate a file system and commands (analogous to Linux commands). Project was provided 
 by Daniel Ciocîrlan in his Udemy course "Rock the JVM! Scala and Functional Programming for Beginners" 
 (I highly recommend Daniel's courses for beginners and advanced Scala programmers. For more information 
 on his courses go to https://rockthejvm.com/).
